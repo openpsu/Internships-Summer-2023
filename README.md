@@ -12,6 +12,7 @@ Contribute by filling out this form (Work in progress)
 
 ## The List
 
-| Company | Location | Country | Position & Notes | Sponsorship Availability |
+| Company | Location | Country/Countries | Position & Notes | Sponsorship Availability |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/index.html) | Multiple | Americas, Asia-Pacific | Analyst and Associate positions available across multiple cities in Americas and Asia-Pacific |  |
 | Sample Name  | Sample Address, Sample State  | Sample Country | Sample positions & notes  | Sample Yes/No  |
