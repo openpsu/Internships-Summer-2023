@@ -1,5 +1,7 @@
 # Internships Summer 2023
 
+## Repository is temporarily paused in development
+
 This is a repository of Summer 2023 internships/co-ops. List maintained by the OpenPSU student club (work in progress)
 
 **Location includes many countries and remote positions**
